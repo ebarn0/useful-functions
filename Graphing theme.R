@@ -1,4 +1,4 @@
-plot_theme <- function() {
+tu_theme <- function() {
   theme_minimal() +
     theme(axis.text.y = element_text(size = 12), 
           axis.title.y = element_text(size = 12, face = 'bold'),
